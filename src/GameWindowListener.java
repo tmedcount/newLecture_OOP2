@@ -3,7 +3,7 @@ import java.awt.event.WindowListener;
 
 import javax.swing.JOptionPane;
 
-public class GameWindowListener implements WindowListener{
+public class GameWindowListener implements WindowListener{ // 인터페이스
 
 	@Override
 	public void windowOpened(WindowEvent e) {
