@@ -5,8 +5,6 @@ import java.awt.event.WindowListener;
 
 import javax.swing.JOptionPane;
 
-import sun.awt.AWTAccessor.WindowAccessor;
-
 public class GameFrame extends Frame implements WindowListener { // 상속
 	
 	public GameFrame() {
